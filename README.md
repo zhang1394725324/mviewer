@@ -171,3 +171,9 @@ These files are still kept in the repo as format references:
 - `docs/reverse-engineering/marmoset-d3f745560e47d383adc4f6a322092030.js`
 
 The newer bundled Marmoset JavaScript is the primary reference for format and runtime parity work.
+
+
+
+##下载：
+
+* [`点击直接下载`](https://github.com/majimboo/mviewer/releases/tag/v2.1.2)
